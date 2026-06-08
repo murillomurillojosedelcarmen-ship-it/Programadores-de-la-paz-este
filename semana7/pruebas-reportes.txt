@@ -1,0 +1,6 @@
+PREGUNTAS#7
+R//Consulté la ruta GET /reportes desde el navegador 
+usando la dirección http://localhost:3000/reportes.
+ El servidor respondió 
+con una lista de reportes en formato JSON,
+mostrando el id, el tipo de incidencia y su descripción.
